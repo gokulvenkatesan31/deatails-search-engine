@@ -1,0 +1,35 @@
+.search{
+    border-radius: 10px;
+    background-color: rgb(246, 241, 236);
+    width: 500px;
+}
+
+.search-cont{
+    margin: 10px;
+    text-align: center !important;
+}
+.main{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center
+}
+.img-container{
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.img-size{
+    width: 100%;
+}
+.profile-cont{
+    width: 350px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #111;
+    padding: 0%;
+    border-radius: 5px;
+
+}
