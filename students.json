@@ -1,0 +1,46 @@
+[
+    {
+        "id":"1",
+        "name":"kholi",
+        "jrNum":"18",
+        "height":"5'9 (1.75m)",
+        "parents":"Prem kholi",
+        "about":"Virat Kohli is an Indian international cricketer and the former captain of the Indian national cricket team. He is a right-handed batsman and an occasional medium-fast bowler. He currently represents Royal Challengers Bangalore in the IPL and Delhi in domestic cricket.",
+        "img":"https://imgk.timesnownews.com/story/Virat_Kohli_RCB_BCCL70.jpg"
+    },
+    {
+        "id":"2",
+        "name":"dhoni",
+        "jrNum":"7",
+        "height":" 5'9 (1.75m)",
+        "parents":"Pan Singh, Devki Devi",
+        "about":" born 7 July 1981) is an Indian professional cricketer who plays as a right handed batter and a wicket-keeper. Widely regarded as one of the most prolific wicket-keeper-batsmen and captains, he represented the Indian cricket team and was the captain of the side in limited-overs formats from 2007 to 2017 and in test cricket from 2008 to 2014.", 
+        "img":"https://s.yimg.com/fz/api/res/1.2/ROYIQORHUJKYW7_wxrfP4Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0zODQ7cT04MDt3PTUxMg--/https://s.yimg.com/am/60d/4ae412f6f67f5708019a49a4f36b45d7"
+    },{
+        "id":"3",
+        "name":"rohit",
+        "jrNum":"45",
+        "height":"5'9 (1.74m)",
+        "parents":"Purnima Sharma, Gurunath Sharma",
+        "about":"Rohit Gurunath Sharma is an Indian international cricketer who plays for Mumbai in domestic cricket and captains Mumbai Indians in the Indian Premier League as a right-handed batsman and an occasional right-arm off break bowler. He is the captain of the Indian national team in limited-overs formats.Outside cricket, Sharma is an active supporter of animal welfare campaigns",
+        "img":"https://up.yimg.com/ib/th?id=OIP.KOaMDrJ_Uh82ZUv_2m5jCAHaJZ&pid=Api&rs=1&c=1&qlt=95&w=87&h=111"
+    },{
+        "id":"4",
+        "name":"ashwin",
+        "jrNum":"99",
+        "height":"188[3] cm (6 ft 2 in)",
+        "parents":"Ravichandran, Chitra",
+        "about":"Indian international cricketer. He is a right-arm off spin bowler and a lower order batter. Widely regarded as one of the most prolific off spinners of all time, he represents the Indian cricket team and was part of the Indian team that won the 2011 Cricket World Cup and the 2013 Champions Trophy. He plays for Tamil Nadu and South Zone in domestic cricket and for Rajasthan Royals in the Indian Premier League (IPL).",
+        "img":"https://tse1.mm.bing.net/th?id=OIP.qSH6knK-W8429KtgN9BLsAHaE2&pid=Api&P=0&h=180"
+    },
+    {
+        "id":"5",
+        "name":"jadeja",
+        "jrNum":"8",
+        "height":"1.73 m (5 ft 8 in)",
+        "parents":"Anirudhsinh Jadeja and Lata Jadeja",
+        "about":"Ravindrasinh Anirudhsinh Jadeja (born 6 December 1988) is an Indian international cricketer who represents the Indian national cricket team in ODI and Test formats. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He is regarded as one of the best all-rounders of his generation, becoming the fifth Indian and fifth-fastest player to score 2,000 runs and take 200 wickets in Test cricket in 2021. Jadeja was the leading wicket-taker in the 2013 ICC Champions Trophy and received the man of the match award as a member of the final-winning team.",
+        "img":"https://tse4.mm.bing.net/th?id=OIP.rpAiUB9jTha9lqfzLpYvGQHaFj&pid=Api&P=0&h=180"
+    }
+]
+    
